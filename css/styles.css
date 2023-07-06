@@ -87,7 +87,7 @@ h2 {
 }
 
 .images-list .image-wrapper img.selected {
-  border: 2px dotted red;
+  border: 5px dotted hsl(246, 76%, 61%);
 }
 
 .images-list .grid .row:first-of-type {
